@@ -1,0 +1,5 @@
+*.un~
+*.c~
+*.exe
+scripts
+Build
